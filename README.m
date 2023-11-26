@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Badr Gamal Ahmed
 - 👀 I’m interested in studing embedded system, Robotics and Self driving cars
-- 🌱 I’m currently learning embedded system
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning embedded system.
 
 <!---
 Badrgamalahmed/Badrgamalahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
